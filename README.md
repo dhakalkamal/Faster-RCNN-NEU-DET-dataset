@@ -11,3 +11,7 @@ For the clarification, shout out to the dataset creaters, it is a good dataset b
 The dataset was trained on Google TFOD API using a Faster RCNN Network as the inferece was suppposed to be conducted in real time. Tensorflow 1.15  was used for the training and tesing environemnt but however, its quite straightforward to use with tf2x version using TFOD 2 API. 
 
 
+Steps to train Faster R-CNN:
+Carefully follow the steps here:
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
+
